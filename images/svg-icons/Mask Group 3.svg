@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1518" height="390" viewBox="0 0 1518 390">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.971" y1="0.622" x2="0.142" y2="0.592" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff0ec"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="jesse-gardner-wTVr4HR4SBI-unsplash" width="1518" height="390" rx="20" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.102" y1="0.459" x2="1.115" y2="0.475" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd2c6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" clip-path="url(#clip-path)">
+    <path id="Path_954" data-name="Path 954" d="M519.488,1024.058c286.905,0,654.431-535.694,309.014-535.694S806.393,0,519.488,0,0,229.243,0,512.029,232.583,1024.058,519.488,1024.058Z" transform="translate(-118.114 -385.284)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
